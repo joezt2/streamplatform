@@ -173,6 +173,13 @@ streamplatform/
 
 ---
 
+##  Anteprima
+
+### Setup + Avvio del Progetto
+![](images/anteprima.gif)
+
+---
+
 ##  Funzionalità
 
 ##### Dashboard
